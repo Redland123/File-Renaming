@@ -26,6 +26,9 @@
     <ClCompile Include="src\List.cpp" />
     <ClCompile Include="src\Renaming Files.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="README.md" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <ProjectGuid>{63e13447-6847-41bf-ab6d-3dbc922f5b9e}</ProjectGuid>
