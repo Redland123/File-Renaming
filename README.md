@@ -1,5 +1,5 @@
 # File-Renaming
-Quick multi-threaded program which renames all files contained within a provided directory.
+Speedy multi-threaded program which renames all files contained within a provided directory.
  
 ## Notes
  
